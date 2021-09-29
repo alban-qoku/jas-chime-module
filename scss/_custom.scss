@@ -1,0 +1,39 @@
+// Here you can add other styles
+.page-header {
+    @extend .mb-4;
+    @extend .mt-5;
+    @extend .pb-2;
+    border-bottom: 1px solid $gray-200;
+}
+.sub-question {
+    background-color: #F5F2D0
+}
+.edit-question-textarea {
+    resize: none;
+    min-width: 100%;
+    border: none;
+}
+.chart-style {
+    display: inline-block;
+}
+.select-styles {
+    padding: 0.375rem 0.75rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #3e515b;
+    background-color: #fff;
+    background-image: none;
+    background-clip: padding-box;
+    border: 1px solid #c2cfd6;
+    border-radius: 0;
+}
+
+.logo-img-width{
+    width:100%;
+}
+
+.list-scrolable{
+    max-height: 500px;
+    overflow-y:scroll;
+    -webkit-overflow-scrolling: touch;
+}

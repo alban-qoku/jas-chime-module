@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="16px" viewBox="0 0 21 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>checkmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Billing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Billing-Page---Monthly" transform="translate(-759.000000, -704.000000)" fill="#FFFFFF">
+            <g id="check" transform="translate(751.000000, 694.000000)">
+                <path d="M25.4417682,10.3923391 C25.9648862,9.86922113 26.8130259,9.86921905 27.3361472,10.3923403 L28.2833404,11.3395335 C28.8064591,11.8626522 28.8065236,12.7107306 28.2833417,13.2339125 L15.9698523,25.5474019 C15.7082933,25.8089609 15.3654789,25.9397409 15.022664,25.939741 C14.6798183,25.9396959 14.3369755,25.8089029 14.0754199,25.5473473 L8.39237771,19.8643051 C7.86922958,19.341157 7.86920306,18.4929928 8.39232435,17.9698715 L9.33951754,17.0226784 C9.8626362,16.4995597 10.7108573,16.4996379 11.2339511,17.0227317 L15.0226634,20.8114439 L25.4417682,10.3923391 Z" id="checkmark"></path>
+            </g>
+        </g>
+    </g>
+</svg>
